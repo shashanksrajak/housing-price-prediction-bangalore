@@ -35,4 +35,4 @@ def get_location_names():
 if __name__ == "__main__":
     print("Starting Flask Server for Home Price Prediction  🎉")
     utils.load_saved_artifacts()
-    app.run(port=5001)
+    app.run(port=7001)
